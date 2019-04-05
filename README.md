@@ -12,4 +12,5 @@ This assignment is accompanied by the following files:
 4. GENOTYPES POSITIONS: “example data 1 geno positions.txt“, “example data 2 geno positions.txt“, “example data 3 geno positions.txt“, “test data 1 geno positions.txt“, and “test data 2 geno positions.txt“ - for each of the example and test dataset, you get the physical positions of the genotypes on the chro- mosome. This additional information can be incorporated into your algorithm (however, you are not required to use it).
 
 In your final submission you are required to submit your estimated haplotypes for all the individuals in the files “test data 1.txt” and “test data 2.txt”. Specifically, submit two files “test data 1 sol.txt” and “test data 2 sol.txt”, each with the inferred haplotypes of the genotypes in the corresponding test file using the same format as the example haplotype files (i.e. “example data 1 sol.txt”, see above).
+
 Importantly, the example datasets are merely provided to you as examples of possible input/output. Note that the input of these datasets do not necessarily represent the input of the test data.
